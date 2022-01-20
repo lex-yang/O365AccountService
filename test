@@ -1,0 +1,1 @@
+docker run --rm -it -p 3000:3000 -e REDIS_SERVER_URL=host.docker.internal o365_account_service

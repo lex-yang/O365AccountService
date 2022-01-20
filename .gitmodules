@@ -1,0 +1,3 @@
+[submodule "o365-account-service"]
+	path = o365-account-service
+	url = https://github.com/lex-yang/o365-account-service.git
